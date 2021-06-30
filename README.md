@@ -4,6 +4,8 @@ An applicant tracking system (ATS) is a software application that enables the el
 
 ## Deployment
 
+Set DB Credentials on .env file, you can copy the env example file and edit.
+
 ```php
 composer install
 ```
@@ -37,7 +39,6 @@ SANCTUM_STATEFUL_DOMAINS=yourdomain.com
 ## Default Credentials
 
 ```php
-Username: **admin@admin.com**
-Password: **password**
-
-To see it live in action <a href="https://ats-hr.devbyway.com" target="_blank">click here!</a>
+Username: admin@admin.com
+Password: password
+```
