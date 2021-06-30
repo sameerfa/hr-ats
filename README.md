@@ -2,6 +2,9 @@
 
 An applicant tracking system (ATS) is a software application that enables the electronic handling of recruitment and hiring needs. An ATS is very similar to customer relationship management (CRM) systems, but are designed for recruitment tracking purposes. In many cases they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended.
 
+![alt text](https://raw.githubusercontent.com/sameerfa/hr-ats/master/public/md/img/screens/01.png)
+![alt text](https://raw.githubusercontent.com/sameerfa/hr-ats/master/public/md/img/screens/02.png)
+
 ## Deployment
 
 Set DB Credentials on .env file, you can copy the env example file and edit.
